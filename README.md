@@ -10,7 +10,7 @@ A [Hoe] plugin that helps you get your stuff on Heroku.
 
 ## FEATURES:
 
-* generates your `.gems` file
+* `rake heroku:dotgems` -- generates your `.gems` file
 
 ## REQUIREMENTS:
 
